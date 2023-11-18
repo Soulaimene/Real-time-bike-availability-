@@ -1,1 +1,3 @@
-# Real-time-bike-availability-
+# Real-time-bike-availability
+
+![Example Image](./bike_av.png)
